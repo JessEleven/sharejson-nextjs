@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#191919] text-neutral-50
+}
+
+.btn-navbar-border {
+  @apply px-3 py-1.5 border border-neutral-400 rounded-md
+}
+
+.btn-navbar-bg {
+  @apply px-3 py-1.5 bg-neutral-200 rounded-md border border-neutral-200 text-neutral-900
+}
