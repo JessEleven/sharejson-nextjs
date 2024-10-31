@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-[#191919] text-neutral-50
+  @apply bg-neutral-800 text-neutral-50
 }
 
 .btn-border {
